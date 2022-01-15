@@ -1,3 +1,11 @@
+## Alan AI News Application
+
+An Artificial Intelligence React News Application using Alan AI. Alan AI is a revolutionary speech recognition software that allows you to add voice capabilities to your applications. It allows you to control absolutely everything in the app using your voice.
+
+### [Live Site](https://samridhibhardwaj.netlify.app)
+
+<img width="1440" alt="2" src="https://user-images.githubusercontent.com/91188761/149633053-a17cc520-bf71-43b8-a7f6-1131c80724ac.png">
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
